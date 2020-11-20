@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Android</string>
+
+    <string name="main_title">Escoge una de las opciones y mira como recuperas los datos!</string>
+    <string name="get_all">Get all Examples</string>
+    <string name="get_one">Get Example by id</string>
+    <string name="save_example">Save one Example</string>
+    <string name="update_example">Update one Example</string>
+    <string name="delete_example">Delete one Example by id</string>
 </resources>
